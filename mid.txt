@@ -1,5 +1,4 @@
 mid
-mid -3
 mid -2
 mid -1
 mid 0
